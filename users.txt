@@ -1,0 +1,10 @@
+Type Username            Password       Age     Email             Phone         Name
+1    defaultStaff        staff123       22      staff@gmail.com   0123456789    Staff Default
+0    defaultCust         cust1234       20      cust@gmail.com    0123456789    Customer Default
+0    123                 123            0       foo@bar.com       0111111111    Test Cust Acc
+1    456                 456            45      test@test.com     0987654321    Test Staff Acc
+0    Lily                lily123        27      lily@gmail.com    0192131415    Lily Sarah
+0    Mike                mike123        33      mike@gmail.com    0119876543    Micheal John
+0    nana                nana123        16      nana@yahoo.com    0187659898    Najwa Nayli
+0    bunga               bunga123       21      bunga@yahoo.com   0124446775    Rose Mawar
+1    Clara               clara123       27      clara@gmail.com   0112222444    Clara Laura

@@ -1,0 +1,12 @@
+ID  ISBN           Quantity  Price   Discount  Author              Title
+1   9781933624761  1         84.00   10        Clifford            Introduction to Algorithms
+2   9781933624341  10        19.00   0         Andrew              The Pragmatic Programmer
+3   9781625441188  0         70.20   20        Jon                 Programming Pearls
+4   9781625441775  6         31.00   30        Steven              Oracle SQL Programming
+5   9780972029537  48        92.90   0         Stephane            The Art of SQL
+6   9781625441676  25        29.90   0         Anthony             SQL Cookbook
+7   9781625442765  27        49.90   50        Tanenbaum           Computer Networks
+8   9781625442741  63        110.00  0         Gary                Network Warrior
+9   9781933624327  3         128.00  0         J.Capobianco        Automate Your Network
+10  9781625441751  13        73.00   0         Roderick            Algebraic Calculus
+11  9781933624464  99        84.00   90        R.Buss              3D Computer Graphics
